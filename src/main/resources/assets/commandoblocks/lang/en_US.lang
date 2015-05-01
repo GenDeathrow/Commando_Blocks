@@ -1,0 +1,7 @@
+language.name=English
+
+updatemsg.ACB.available=Update %s of Commando Blocks is available
+updatemsg.ACB.download=Download & Changelog:
+updatemsg.ACB.uptodate=Commando Blocks %s is up to date
+updatemsg.ACB.debug=Commando Blocks %s is a debug version
+updatemsg.ACB.error=An error occurred while parsing Commando Blocks version file!
